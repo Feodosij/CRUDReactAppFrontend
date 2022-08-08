@@ -1,0 +1,25 @@
+.view_container {
+    max-width: 980px;
+    margin: auto;
+}
+
+.view_image {
+    max-width: 250px;
+}
+
+.view_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.description p {
+    font-size: 26px;
+}
+
+.description {
+    margin-top: 50px;
+}
+.description h3 {
+    border-top: 1px solid rgb(236, 229, 229);
+
+}
